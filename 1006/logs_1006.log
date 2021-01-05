@@ -1,0 +1,972 @@
+Sat Dec 12 21:36:39 EST 2020 : Peer 1006 makes a connection to Peer 1001
+Sat Dec 12 21:36:41 EST 2020 : Peer 1006sends handshake to 1001
+Sat Dec 12 21:36:41 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001001
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006 sends its bitfield to 1001
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006 sends 'not interested' message to 1001
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006 received the ‘not interested’ message from 1001
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006 makes a connection to Peer 1002
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006sends handshake to 1002
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001002
+Sat Dec 12 21:36:42 EST 2020 : Peer 1006 sends its bitfield to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 makes a connection to Peer 1003
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006sends handshake to 1003
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 received the ‘interested’ message from 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001003
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 receives 'request' message from 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 makes a connection to Peer 1004
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006sends handshake to 1004
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001004
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 makes a connection to Peer 1005
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends its bitfield to 1003
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006sends handshake to 1005
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 received the ‘interested’ message from 1003
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001005
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends its bitfield to 1004
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'piece' 24  to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 received the ‘interested’ message from 1004
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 receives 'request' message from 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends its bitfield to 1005
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'piece' 36  to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 received the ‘interested’ message from 1005
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 24
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 receives 'request' message from 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'piece' 19  to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 36
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 is choked by 1002
+Sat Dec 12 21:36:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:44 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 19
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 54
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 63
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 32
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 25
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 43
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 24
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:45 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 36
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 28
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 57
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001007
+Sat Dec 12 21:36:46 EST 2020 : Peer1006 is connected from Peer1007
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends its bitfield to 1007
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 33
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 39
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘interested’ message from 1007
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 42
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 19
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 48
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:46 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 1
+Sat Dec 12 21:36:47 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:47 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 58
+Sat Dec 12 21:36:47 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:47 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 47
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 65
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001008
+Sat Dec 12 21:36:48 EST 2020 : Peer1006 is connected from Peer1008
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 sends its bitfield to 1008
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 15
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:48 EST 2020 : Peer 1006 received the ‘interested’ message from 1008
+Sat Dec 12 21:36:49 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:49 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 65
+Sat Dec 12 21:36:49 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:49 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 39
+Sat Dec 12 21:36:49 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:49 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 27
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 29
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 42
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 26
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 29
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 15
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 42
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 36
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 19
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 24
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 39
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 65
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 51
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:50 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 15
+Sat Dec 12 21:36:51 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:51 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 27
+Sat Dec 12 21:36:52 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:36:52 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 27
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 receives 'request' message from 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends 'piece' 32  to 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 receives 'request' message from 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends 'piece' 36  to 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 32
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 receives 'request' message from 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends 'piece' 33  to 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 36
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 is choked by 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 33
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 receives P2PFILESHARINGPROJ00000000001009
+Sat Dec 12 21:36:53 EST 2020 : Peer1006 is connected from Peer1009
+Sat Dec 12 21:36:53 EST 2020 : Peer 1006 sends its bitfield to 1009
+Sat Dec 12 21:36:54 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:36:54 EST 2020 : Peer 1006 received the ‘interested’ message from 1009
+Sat Dec 12 21:36:57 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:57 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 26
+Sat Dec 12 21:36:57 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:57 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 24
+Sat Dec 12 21:36:57 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:57 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 5
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 27
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 65
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 61
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 51
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 17
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:58 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 16
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 15
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 33
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 32
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 63
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 1
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 19
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 36
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 43
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:36:59 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 63
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 28
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 1
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 58
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:00 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 19
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 36
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 36
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 27
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:01 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 43
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 receives 'request' message from 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 sends 'piece' 23  to 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 receives 'request' message from 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 sends 'piece' 30  to 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 23
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 receives 'request' message from 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 sends 'piece' 35  to 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 30
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 is choked by 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:03 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 35
+Sat Dec 12 21:37:05 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:05 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 27
+Sat Dec 12 21:37:05 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:05 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 27
+Sat Dec 12 21:37:05 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:05 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 43
+Sat Dec 12 21:37:07 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:07 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 47
+Sat Dec 12 21:37:07 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:07 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 31
+Sat Dec 12 21:37:07 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:07 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 56
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 65
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 23
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 30
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 35
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 35
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:08 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 30
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 23
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 25
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 53
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 48
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 60
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 40
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 34
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 45
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 17
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 54
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:09 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 57
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 30
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 23
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 35
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 63
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 28
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:10 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 34
+Sat Dec 12 21:37:11 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:11 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 34
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 receives 'request' message from 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 sends 'piece' 21  to 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 receives 'request' message from 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 sends 'piece' 44  to 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 21
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 receives 'request' message from 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 sends 'piece' 63  to 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 44
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 is choked by 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:13 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 63
+Sat Dec 12 21:37:17 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:17 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 10
+Sat Dec 12 21:37:17 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:17 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 66
+Sat Dec 12 21:37:17 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:17 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 53
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 21
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 39
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 17
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 21
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 65
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 44
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 25
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 28
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:18 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 23
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 61
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 1
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 10
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 19
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 34
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 45
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 24
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 60
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 40
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 33
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 60
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 47
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 54
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 42
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 16
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 32
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 58
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 35
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 26
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 57
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 48
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 53
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 29
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 30
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 66
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 30
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 31
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 56
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 5
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 35
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:20 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 23
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 sends 'piece' 55  to 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 sends 'piece' 11  to 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 55
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 sends 'piece' 0  to 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 11
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 is choked by 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:23 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 0
+Sat Dec 12 21:37:27 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:27 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 3
+Sat Dec 12 21:37:27 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:27 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 11
+Sat Dec 12 21:37:27 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:27 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 8
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 44
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 66
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 10
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 21
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 21
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 44
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 66
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:28 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 10
+Sat Dec 12 21:37:29 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:29 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 60
+Sat Dec 12 21:37:29 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:29 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 47
+Sat Dec 12 21:37:29 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:29 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 15
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 60
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 5
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 56
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 16
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 3
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 57
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:30 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 33
+Sat Dec 12 21:37:31 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:31 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 60
+Sat Dec 12 21:37:31 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:31 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 57
+Sat Dec 12 21:37:31 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:31 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 47
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 sends 'piece' 41  to 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 sends 'piece' 9  to 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 41
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 sends 'piece' 12  to 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 9
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 is choked by 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:33 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 12
+Sat Dec 12 21:37:37 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:37 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 31
+Sat Dec 12 21:37:37 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:37 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 14
+Sat Dec 12 21:37:37 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:37 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 66
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 10
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 5
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 21
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 31
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:38 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 14
+Sat Dec 12 21:37:39 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:39 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 54
+Sat Dec 12 21:37:39 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:39 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 61
+Sat Dec 12 21:37:39 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:39 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 31
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 31
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 31
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 24
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 45
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 11
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 3
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 44
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 25
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 26
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 48
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 5
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 54
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 10
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:37:40 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 40
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 sends 'piece' 44  to 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 sends 'piece' 18  to 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 44
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 sends 'piece' 37  to 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 18
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 is choked by 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:43 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 37
+Sat Dec 12 21:37:47 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:47 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 4
+Sat Dec 12 21:37:47 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:47 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 50
+Sat Dec 12 21:37:47 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:47 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 6
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 50
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 3
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 4
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 6
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 56
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 5
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 14
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 66
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:48 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 11
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 4
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 55
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 41
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 14
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 0
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 50
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 6
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 12
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:37:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 9
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 37
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 18
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 65
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 26
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:50 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 48
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 receives 'request' message from 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 sends 'piece' 14  to 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 receives 'request' message from 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 sends 'piece' 18  to 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 14
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 receives 'request' message from 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 sends 'piece' 55  to 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 18
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 is choked by 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:53 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 55
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 39
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 0
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 0
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:57 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 14
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 3
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 6
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 50
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 0
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 55
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 56
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 53
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 11
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 4
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 66
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 51
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 3
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:58 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 56
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 1
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 17
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 19
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 25
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 42
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 24
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 40
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 9
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 12
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 37
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 30
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 21
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 44
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 32
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 58
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 10
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 5
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 35
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 53
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 11
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 29
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 23
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:37:59 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 45
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 3
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 0
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 53
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 6
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 0
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 4
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 41
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 9
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 8
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:00 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 12
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 sends 'piece' 59  to 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 sends 'piece' 22  to 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 59
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 sends 'piece' 13  to 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 22
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 is choked by 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:03 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 13
+Sat Dec 12 21:38:05 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:05 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 11
+Sat Dec 12 21:38:05 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:05 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 56
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 38
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 64
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 12
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:07 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 14
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 55
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 18
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 12
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 64
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 38
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 6
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 18
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 55
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:08 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 4
+Sat Dec 12 21:38:09 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:09 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 50
+Sat Dec 12 21:38:09 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:09 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 37
+Sat Dec 12 21:38:09 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:09 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 9
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 64
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 22
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 8
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 41
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:10 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 41
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 sends 'piece' 46  to 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 sends 'piece' 49  to 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 46
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 sends 'piece' 59  to 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 49
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 is choked by 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:13 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 59
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 4
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 13
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 22
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 22
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:17 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 13
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 22
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 9
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 37
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 41
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 50
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 38
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 22
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 64
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 50
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 6
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:18 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 9
+Sat Dec 12 21:38:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 59
+Sat Dec 12 21:38:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 38
+Sat Dec 12 21:38:19 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:19 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 49
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 13
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 64
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 38
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:20 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 12
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 sends 'piece' 52  to 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 sends 'piece' 49  to 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 52
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 sends 'piece' 62  to 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 49
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 is choked by 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:23 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 62
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 20
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 62
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 52
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 38
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 22
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:27 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 64
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 13
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 49
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 59
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 37
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 55
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 49
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 18
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 41
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 8
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 41
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:28 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 59
+Sat Dec 12 21:38:29 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:29 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 62
+Sat Dec 12 21:38:29 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:29 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 52
+Sat Dec 12 21:38:29 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:29 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 20
+Sat Dec 12 21:38:30 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:30 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 8
+Sat Dec 12 21:38:30 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:30 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 64
+Sat Dec 12 21:38:30 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:30 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 38
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 sends 'piece' 2  to 1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 receives 'request' message from 1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 sends 'piece' 7  to 1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 2
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 sends 'not interested' message to 1003
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 received the ‘have’ message from 1003 for the piece 7
+Sat Dec 12 21:38:33 EST 2020 : Peer 1006 is choked by 1003
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 7
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 62
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 46
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 59
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:37 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 49
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 20
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 37
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 49
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 59
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 18
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:38 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 18
+Sat Dec 12 21:38:39 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:39 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 52
+Sat Dec 12 21:38:39 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:39 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 20
+Sat Dec 12 21:38:39 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:39 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 46
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 20
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 52
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 62
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 46
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 62
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:40 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 7
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 receives 'request' message from 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 sends 'piece' 62  to 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 receives 'request' message from 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 sends 'piece' 2  to 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 62
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 receives 'request' message from 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 sends 'piece' 7  to 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 2
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 is choked by 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 sends 'not interested' message to 1002
+Sat Dec 12 21:38:43 EST 2020 : Peer 1006 received the ‘have’ message from 1002 for the piece 7
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 13
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 8
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 2
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 46
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 8
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:47 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 13
+Sat Dec 12 21:38:48 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:48 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 20
+Sat Dec 12 21:38:48 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:48 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 52
+Sat Dec 12 21:38:48 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:48 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 2
+Sat Dec 12 21:38:49 EST 2020 : Peer 1006 sends 'not interested' message to 1007
+Sat Dec 12 21:38:49 EST 2020 : Peer 1006 received the ‘have’ message from 1007 for the piece 2
+Sat Dec 12 21:38:49 EST 2020 : Peer 1006 sends 'not interested' message to 1008
+Sat Dec 12 21:38:49 EST 2020 : Peer 1006 received the ‘have’ message from 1008 for the piece 7
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 62
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 20
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 46
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:38:50 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 52
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 sends 'piece' 2  to 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 sends 'piece' 46  to 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 2
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 receives 'request' message from 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 sends 'piece' 7  to 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 46
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 is choked by 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 sends 'not interested' message to 1005
+Sat Dec 12 21:38:53 EST 2020 : Peer 1006 received the ‘have’ message from 1005 for the piece 7
+Sat Dec 12 21:38:58 EST 2020 : Peer 1006 sends 'not interested' message to 1009
+Sat Dec 12 21:38:58 EST 2020 : Peer 1006 received the ‘have’ message from 1009 for the piece 2
+Sat Dec 12 21:39:03 EST 2020 : Peer 1006 has  the  optimistically  unchoked  neighbor  1003
+Sat Dec 12 21:39:08 EST 2020 : Peer 1006 sends 'not interested' message to 1004
+Sat Dec 12 21:39:08 EST 2020 : Peer 1006 received the ‘have’ message from 1004 for the piece 7
